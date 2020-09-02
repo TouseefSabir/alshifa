@@ -17,24 +17,16 @@
 
                     <div class="col-md-4 col-sm-4"> 
                          <div class="footer-thumb"> 
-                              <h4 class="wow fadeInUp" data-wow-delay="0.4s">Latest News</h4>
                               <div class="latest-stories">
                                    <div class="stories-image">
-                                        <a href="#"><img src="images/author.jpg" class="img-responsive" alt=""></a>
                                    </div>
-                                   <div class="stories-info">
-                                        <a href="#"><h5>Amazing Technology</h5></a>
-                                        <span>March 08, 2020</span>
+                                   <div class="stories-info">  
                                    </div>
                               </div>
-
                               <div class="latest-stories">
                                    <div class="stories-image">
-                                        <a href="#"><img src="images/author.jpg" class="img-responsive" alt=""></a>
                                    </div>
                                    <div class="stories-info">
-                                        <a href="#"><h5>Save Process</h5></a>
-                                        <span>August 20, 2020</span>
                                    </div>
                               </div>
                          </div>

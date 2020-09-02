@@ -31,7 +31,7 @@
 
                     <!-- lOGO TEXT HERE -->
                     
-                    <a href="index.html" class="navbar-brand">Al Shifa HIJAMA Clinic</a>
+                    <a href="index.php" class="navbar-brand">Al Shifa Health Clinic</a>
                </div>
 
                <!-- MENU LINKS -->
@@ -40,7 +40,7 @@
                          <li><a href="#top" class="smoothScroll">Home</a></li>
                          <li><a href="#about" class="smoothScroll">About</a></li>
                          <li><a href="#news" class="smoothScroll">Treatments</a></li>
-                         <li><a href="#team" class="smoothScroll">Blog</a></li>
+                         <li><a href="#gallery" class="smoothScroll">Gallery</a></li>
                          <li><a href="#google-map" class="smoothScroll">Contact</a></li>
                          <li class="appointment-btn"><a href="#appointment">Make an appointment</a></li>
                     </ul>

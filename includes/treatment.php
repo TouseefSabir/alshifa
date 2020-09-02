@@ -1,3 +1,4 @@
+  
   <!-- NEWS -->
   <section id="news" data-stellar-background-ratio="2.5">
           <div class="container">
@@ -18,7 +19,7 @@
                               </a>
                               <div class="news-info">
                                    <span>1 Hour</span>
-                                   <h3><a href="news-detail.html">Hair Loss Treatment</a></h3>
+                                   <h3>Hair Loss Treatment</h3>
                                    <p>Treatment of pattern hair loss may simply involve accepting the condition.</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -39,7 +40,7 @@
                               </a>
                               <div class="news-info">
                                    <span>45 Minutes</span>
-                                   <h3><a href="news-detail.html">General Cupping + Consultation</a></h3>
+                                   <h3>General Cupping + Consultation</h3>
                                    <p>Cupping, including fire cupping, is absolutely safe when performed by a licensed practitioner.</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -60,7 +61,7 @@
                               </a>
                               <div class="news-info">
                                    <span>45 Minutes</span>
-                                   <h3><a href="news-detail.html">Laser Lipo + Consultation</a></h3>
+                                   <h3>Laser Lipo + Consultation</h3>
                                    <p>Fat removal procedures are used mostly in cosmetic surgery with the intention of removing unwanted adipose tissue.</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -88,7 +89,7 @@
                               </a>
                               <div class="news-info">
                                    <span>1 hour</span>
-                                   <h3><a href="news-detail.html">Body Massage + Consultation </a></h3>
+                                   <h3>Body Massage + Consultation</h3>
                                    <p>Massage oil may be applied to create a better seal as well as allow the cups to glide over muscle groups</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -110,7 +111,7 @@
                               </a>
                               <div class="news-info">
                                    <span>1 hour</span>
-                                   <h3><a href="news-detail.html">Detoxification</a></h3>
+                                   <h3>Detoxification</h3>
                                    <p>As a pseudoscientific detoxification ritual, proponents of cupping falsely claim that it can remove unspecified toxins from the body.</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -132,7 +133,7 @@
                               </a>
                               <div class="news-info">
                                    <span>1 hour</span>
-                                   <h3><a href="news-detail.html">Now we Offer</a></h3>
+                                   <h3>Now we Offer</h3>
                                    <p>INDEED in cupping (HIJAMA) is a Cure. "O Mohammad SAW" Tell your nation to use Cupping</p>
                                    <div class="author">
                                         <img src="images/author.jpg" class="img-responsive" alt="">
@@ -149,6 +150,70 @@
                </div>
 
 
+          </div>
+     </section>
+
+
+      <!-- Gallery -->
+      <section id="gallery" data-stellar-background-ratio="1">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-6 col-sm-6">
+                         <div class="about-info">
+                              <h2 class="wow fadeInUp" data-wow-delay="0.1s">Gallery</h2>
+                         </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
+                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Nate Baston</h3>
+                                        <p>General Principal</p>
+                                        <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-heart"></a></li>
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Jason Stewart</h3>
+                                        <p>Pregnancy</p>
+                                        <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-heart"></a></li>
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image3.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Miasha Nakahara</h3>
+                                        <p>Cardiology</p>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-heart"></a></li>
+                                             
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+                    
+               </div>
           </div>
      </section>
 
