@@ -30,8 +30,10 @@
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    
-                    <a href="index.php" class="navbar-brand">Al Shifa Health Clinic</a>
+                    <div class="navbar-brand">
+                    <a href="index.php">
+                         <a href="index.php"><img src="images/favicon-32x32.png" alt=""></a> Al Shifa Health Clinic</a>
+                    </div>
                </div>
 
                <!-- MENU LINKS -->
