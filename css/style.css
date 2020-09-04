@@ -506,11 +506,11 @@
   }
 
   .slider .item-first {
-    background-image: url(../images/main.mp4);
+    background-image: url(../images/hero.jpg);
   }
 
   .slider .item-third {
-    background-image: url(../images/hero.jpg);
+    background-image: url(../images/hero-bg3.jpg);
   }
 
   /*---------------------------------------
