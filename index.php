@@ -36,8 +36,8 @@
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
 	-->
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
-     </section>           
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.380628220712!2d-0.15266568468765224!3d50.824113268251445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48758512c80df259%3A0xafc6d1a535d93294!2s57%20Preston%20St%2C%20Brighton%20BN1%202HE%2C%20UK!5e0!3m2!1sen!2sth!4v1599302293425!5m2!1sen!2sth" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+     </section>       
 
 
        <?php include 'includes/footer.php';?>
