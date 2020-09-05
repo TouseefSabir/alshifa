@@ -172,8 +172,8 @@
                               <img src="images/team-image1.jpg" class="img-responsive" alt="">
 
                                    <div class="team-info">
-                                        <h3>Nate Baston</h3>
-                                        <p>General Principal</p>
+                                   <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
                                         <ul class="social-icon">
                                         <li><a href="#" class="fa fa-heart"></a></li>
                                         </ul>
@@ -184,11 +184,11 @@
 
                     <div class="col-md-4 col-sm-6">
                          <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
-                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+                              <img src="images/team-image2.jpg" class="img-responsive" alt="">
 
                                    <div class="team-info">
-                                        <h3>Jason Stewart</h3>
-                                        <p>Pregnancy</p>
+                                   <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
                                         <ul class="social-icon">
                                         <li><a href="#" class="fa fa-heart"></a></li>
                                         </ul>
@@ -202,8 +202,8 @@
                               <img src="images/team-image3.jpg" class="img-responsive" alt="">
 
                                    <div class="team-info">
-                                        <h3>Miasha Nakahara</h3>
-                                        <p>Cardiology</p>
+                                   <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
                                         <ul class="social-icon">
                                              <li><a href="#" class="fa fa-heart"></a></li>
                                              
@@ -214,6 +214,56 @@
                     </div>
                     
                </div>
+
+               <div class="row">
+
+               <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image4.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                   <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-heart"></a></li>
+                                             
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div><div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image5.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                   <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-heart"></a></li>
+                                             
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div><div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image6.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3><i class="fa fa-heart-o" style="font-size:48px;color:#056839"></i></h3>
+                                        <p>Al Shifa Health CLinic</p>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-heart"></a></li>
+                                             
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+               
+               
+               </div>
+
           </div>
      </section>
 
